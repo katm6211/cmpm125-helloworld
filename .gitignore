@@ -7,3 +7,6 @@
 /[Uu]ser[Ss]ettings/
 *.log
 .DS_Store
+*.csproj
+*.sln
+*.slnx
